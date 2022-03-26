@@ -17,4 +17,4 @@
 * Press the down arrow on Connect To Your RPD to get IP, User, Password.
 
 ## Original Author:
-> Made by c9ffin
+> Made by Oualid
